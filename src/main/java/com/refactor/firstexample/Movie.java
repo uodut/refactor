@@ -1,4 +1,4 @@
-package com.nubia.refactor.firstexample;
+package com.refactor.firstexample;
 /**
  * 2016年3月8日
  * 

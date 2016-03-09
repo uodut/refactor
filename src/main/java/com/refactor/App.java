@@ -1,4 +1,4 @@
-package com.nubia.refactor;
+package com.refactor;
 /**
  * Hello world!
  *

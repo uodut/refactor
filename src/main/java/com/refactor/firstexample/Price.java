@@ -1,4 +1,4 @@
-package com.nubia.refactor.firstexample;
+package com.refactor.firstexample;
 public abstract class Price {
     abstract int getPriceCode();
     abstract double getCharge(int daysRented);

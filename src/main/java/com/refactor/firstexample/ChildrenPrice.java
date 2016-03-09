@@ -1,4 +1,4 @@
-package com.nubia.refactor.firstexample;
+package com.refactor.firstexample;
 public class ChildrenPrice extends Price {
     int getPriceCode() {
         return Movie.CHILDRENS;

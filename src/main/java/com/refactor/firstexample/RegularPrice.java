@@ -1,4 +1,4 @@
-package com.nubia.refactor.firstexample;
+package com.refactor.firstexample;
 public class RegularPrice extends Price {
     int getPriceCode() {
         return Movie.REGULAR;
